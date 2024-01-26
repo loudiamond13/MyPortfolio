@@ -1,0 +1,28 @@
+{
+    "liveSassCompile.settings.autoprefix": [
+
+    ],
+    "liveSassCompile.settings.formats": [
+
+
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": null,
+            "savePathReplacementPairs": null
+        }
+    ],
+    "liveSassCompile.settings.rootIsWorkspace": false,
+    "liveSassCompile.settings.generateMap": false,
+    "liveSassCompile.settings.includeItems": [
+
+    ],
+    "sass.andStared": [
+
+        "active",
+        "focus",
+        "hover",
+        "nth-child"
+    ],
+    "liveSassCompile.settings.forceBaseDirectory": ""
+}
