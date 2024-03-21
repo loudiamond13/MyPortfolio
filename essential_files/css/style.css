@@ -242,6 +242,16 @@ a:hover
     align-items: center;
   }
 
+  .nav-pills .nav-link {
+    font-size: 0.8rem; /* Adjust the font size as needed */
+    padding: 0.25rem 0.5rem; /* Adjust the padding as needed */
+}
+
+.button-pill {
+    font-size: 0.8rem; /* Adjust the font size as needed */
+}
+
+
  
 
 
